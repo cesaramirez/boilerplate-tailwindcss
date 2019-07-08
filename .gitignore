@@ -1,0 +1,8 @@
+/node_modules
+*.DS_Store
+/.idea
+/.vscode
+/nbproject
+npm-debug.log
+yarn-error.log
+hot
